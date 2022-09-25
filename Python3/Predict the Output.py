@@ -4,3 +4,5 @@ def f():
     a=12
 f()
 print(a)
+
+o/p = 14
